@@ -1,2 +1,11 @@
 # cs-student-visit
-student visit fun stuff
+
+This is my great project!
+
+## How to compile
+
+- TODO:
+
+## How to run
+
+- TODO:
